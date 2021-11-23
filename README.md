@@ -11,7 +11,3 @@ Skills:  REACT / JS / HTML / CSS/ EXPRESS JS/ MONGODB
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MridulSheikh&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MridulSheikh)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MridulSheikh)  
-
-  
