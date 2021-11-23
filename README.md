@@ -4,8 +4,6 @@ Mridul Sheikh has been involved in web development for over 4 months. He lives i
 
 Skills:  REACT / JS / HTML / CSS/ EXPRESS JS/ MONGODB
 
-- 🔭 I’m currently working on this page. 
-
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MridulSheikh)](https://github.com/anuraghazra/github-readme-stats)
