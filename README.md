@@ -2,9 +2,9 @@
 #### Looking for a job as a web developer
 Mridul Sheikh has been involved in web development for over 4 months. He lives in the Munshiganj district in the Bangladesh Dhaka division.  Currently, his most preferred language is JavaScript. He is currently trying to get an internship at the company. her main purpose is to work with web-programming technology And improve her skills.
 
-Skills:  REACT / JS / HTML / CSS/ EXPRESS JS/ MONGODB
+![Profile views](https://gpvc.arturio.dev/MridulSheikh)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+Skills:  REACT / JS / HTML / CSS/ EXPRESS JS/ MONGODB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MridulSheikh)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -14,4 +14,4 @@ Skills:  REACT / JS / HTML / CSS/ EXPRESS JS/ MONGODB
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MridulSheikh)  
 
-![Profile views](https://gpvc.arturio.dev/MridulSheikh)  
+  
