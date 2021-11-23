@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MridulSheikh
+## 👋 Hi, I’m @MridulSheikh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web-Development
 
