@@ -5,6 +5,10 @@ Mridul Sheikh has been involved in web development for over 4 months. He lives i
 
 Skills:  REACT / JS / HTML / CSS/ EXPRESS/ MONGODB
 
+Frame work: Bootstrap/ Tailwind CSS/ MUI
+
+Tools: Vs-code/ firebase/ chrome dev tools/ Netlify/ heroku
+
 ![Profile views](https://gpvc.arturio.dev/MridulSheikh)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MridulSheikh&show_icons=true)  
