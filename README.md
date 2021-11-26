@@ -5,7 +5,7 @@ Mridul Sheikh has been involved in web development for over 4 months. He lives i
 
 Skills:  REACT / JS / HTML / CSS/ EXPRESS/ MONGODB
 
-Frame work: Bootstrap/ Tailwind CSS/ MUI
+Frame work: Bootstrap/ Tailwind CSS
 
 Tools: Vs-code/ firebase/ chrome dev tools/ Netlify/ heroku
 
