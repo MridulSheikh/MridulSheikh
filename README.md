@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Mridul Sheikh
+### Hi there 👋
 
 Mridul Sheikh is a full-stack developer. He lives in Dhaka division in Bangladesh. Currently, his most preferred language is JavaScript. Apart from that, he has done some projects with React, MongoDB, Express, tailwindcss. The main purpose is to work with web-technology And improve her skills.
 
