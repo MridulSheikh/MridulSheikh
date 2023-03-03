@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Mridul Sheikh is a full-stack developer. He lives in the Dhaka division of Bangladesh. Currently, his most preferred language is JavaScript. The main purpose is to work with web technology And improve her skills.
+Throughout my journey as a developer, I have developed a strong foundation in HTML, CSS, and JavaScript, and have honed my skills in building and integrating RESTful APIs.Currently, I am working on my personal project. I am constantly seeking to improve my skills and expand my knowledge in web development by exploring new frameworks and technologies.
 
 ### Skills: 
 ✔ JavaScript (Es6+)
