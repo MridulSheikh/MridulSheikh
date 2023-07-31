@@ -11,6 +11,4 @@ Throughout my journey as a developer, I have developed a strong foundation in HT
 ✔ express
 ✔ MongoDB
 
-![Profile views](https://gpvc.arturio.dev/MridulSheikh)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MridulSheikh&show_icons=true)  
