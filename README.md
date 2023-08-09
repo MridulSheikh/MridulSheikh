@@ -23,5 +23,4 @@ A tech enthusiast specializing in crafting captivating user interfaces using Rea
 
 Join me on this journey to redefine digital experiences one React component at a time! 🌐
 
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MridulSheikh&show_icons=true)  
