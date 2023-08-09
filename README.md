@@ -18,8 +18,8 @@ A tech enthusiast specializing in crafting captivating user interfaces using Rea
 
 📧 Let's connect and share insights! Whether it's brainstorming ideas, discussing new frameworks, or exploring opportunities, I'm excited to be part of a community that pushes the boundaries of creativity and technology.
 
-**LinkedIn:** [https://www.linkedin.com/in/mridul-sheikh](https://www.linkedin.com/in/mridul-sheikh)
-**Email:** sheikhmridul833@gmail.com
+* **LinkedIn:** [https://www.linkedin.com/in/mridul-sheikh](https://www.linkedin.com/in/mridul-sheikh)
+* **Email:** sheikhmridul833@gmail.com
 
 Join me on this journey to redefine digital experiences one React component at a time! 🌐
 
