@@ -4,6 +4,13 @@ A tech enthusiast specializing in crafting captivating user interfaces using Rea
 
 🎨 With a paintbrush in one hand and a keyboard in the other, I blend design and code to create immersive digital experiences. My background in web development, coupled with my passion for pixel-perfect precision, allows me to transform innovative concepts into seamless realities.
 
+## 👨‍💻 Skills & Experiance:
+* Next.js
+* gatsby
+* firebase
+* express
+* mongodb
+
 ## 🔮 What's in my developer toolkit:
 
 * Proficiency in React.js, bringing life to dynamic    web applications. 
