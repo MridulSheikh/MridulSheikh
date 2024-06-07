@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mridul-sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mridul-sheikh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mridul-sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mridul-sheikh" height="30" width="40" /></a>
-<a href="https://fb.com/mridul sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mridul sheikh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18390567/mridul-sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18390567/mridul-sheikh" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100093106206286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100093106206286" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mridul_sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mridul_sheikh" height="30" width="40" /></a>
 </p>
 
@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridulsheikh&show_icons=true&locale=en" alt="mridulsheikh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mridulsheikh&" alt="mridulsheikh" /></p>
-
