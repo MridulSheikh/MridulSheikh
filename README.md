@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Mridul Sheikh
 #### I am Mern Stack Developer
-![I am Mern Stack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Mern Stack Developer]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://media.licdn.com/dms/image/D5616AQHdSGab4uu4jw/profile-displaybackgroundimage-shrink_350_1400/0/1706263807967?e=1723680000&v=beta&t=3F8fb2Cdl-4gQWzh2D0mAT7W13Jq9_yV71aJ5lgTyPc))
 
 👋 Hello! I'm Mridul Sheikh, a passionate MERN-stack Developer based in the beautiful Dhaka Division of Bangladesh. Currently, I am pursuing a Diploma in Engineering with a focus on Computer Science and Technology at Daffodil Technical Institute (DTI).
 
