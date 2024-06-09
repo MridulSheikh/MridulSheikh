@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Mridul Sheikh
+# Hi there 👋, my name is Mridul Sheikh
 #### I am Mern Stack Developer
 ![I am Mern Stack Developer](https://media.licdn.com/dms/image/D5616AQHdSGab4uu4jw/profile-displaybackgroundimage-shrink_350_1400/0/1706263807967?e=1723680000&v=beta&t=3F8fb2Cdl-4gQWzh2D0mAT7W13Jq9_yV71aJ5lgTyPc)
 
