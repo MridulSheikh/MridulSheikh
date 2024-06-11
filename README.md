@@ -6,8 +6,6 @@
 
 📈 Originally a commerce student, my fascination with computer programming led me to transition into the tech field. This journey has been both challenging and rewarding, as I continually strive to expand my knowledge and expertise.
 
-🏆 To further enhance my problem-solving abilities, I actively participate in programming contests. I recently ranked seventh in the "Hunt the Coder Programming Contest" organized by the Daffodil Professional Training Center (DIPTI).
-
 📚 As I continue my studies, I am eager to delve deeper into web development and emerging technologies. My goal is to integrate my skills and knowledge into practical applications, contributing to innovative projects and solutions.
 
 🤝 Let's connect and explore opportunities in the dynamic world of technology!
