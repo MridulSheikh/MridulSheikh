@@ -1,5 +1,5 @@
 # Hi there 👋, My name is Mridul Sheikh
-![I am Mern Stack Developer](https://i.ibb.co/dK9H1Yw/White-Blue-Professional-Website-Developer-Linked-In-Banner-2.png)
+![I am Mern Stack Developer](https://media.licdn.com/dms/image/v2/D5616AQFAdgN4UmVMYA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722523186298?e=1746662400&v=beta&t=-pRXKJdfcBgbekZMOAh7DPwPCvza5Uvsjn60dJxWGko)
 
 🧑‍💻A passionate MERN-stack Developer based in the beautiful Dhaka Division of Bangladesh. Currently, I am pursuing a Diploma in Engineering with a focus on Computer Science and Technology at Daffodil Technical Institute (DTI).
 
