@@ -197,7 +197,7 @@ My goal is to become a stronger software developer by continuously building real
 * 🌐 **Portfolio:** [mridulsheikh.netlify.app](https://mridulsheikh.netlify.app)
 * 💼 **LinkedIn:** [linkedin.com/in/mridul-sheikh](https://linkedin.com/in/mridul-sheikh)
 * 🐙 **GitHub:** [github.com/MridulSheikh](https://github.com/MridulSheikh)
-* 📧 **Email:** `your-email@example.com`
+* 📧 **Email:** `mridul.sheikh.90@gmail.com`
 * 📍 **Location:** Dhaka, Bangladesh
 
 > 💡 Open to **Junior Full Stack Developer, MERN Stack, Backend Developer, and Internship opportunities**.
