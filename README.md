@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mridul Sheikh
-**Junior Full Stack Developer · MERN · AI Engineering**  
+**Junior Full Stack Developer · MERN**  
 
 <p align="center">
   <img 
