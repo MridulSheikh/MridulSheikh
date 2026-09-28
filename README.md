@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm Mridul Sheikh
 **Junior Full Stack Developer · MERN · AI Engineering**  
 *Building modern web applications, scalable backend systems & AI-powered products.*
