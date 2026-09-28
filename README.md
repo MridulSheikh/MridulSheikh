@@ -1,5 +1,14 @@
 # 👋 Hi, I'm Mridul Sheikh
 **Junior Full Stack Developer · MERN · AI Engineering**  
+
+<p align="center">
+  <img 
+    src="./linkedin-banner (2).png" 
+    alt="Mridul Sheikh - Full Stack Developer Banner"
+    width="100%"
+  />
+</p>
+
 *Building modern web applications, scalable backend systems & AI-powered products.*
 
 ---
